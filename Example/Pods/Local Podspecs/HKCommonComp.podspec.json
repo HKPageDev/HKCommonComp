@@ -1,0 +1,22 @@
+{
+  "name": "HKCommonComp",
+  "version": "0.1.0",
+  "summary": "A short description of HKCommonComp.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1005753869@qq.com/HKCommonComp",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1005753869@qq.com": "1005753869@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/1005753869@qq.com/HKCommonComp.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HKCommonComp/Classes/**/*"
+}
