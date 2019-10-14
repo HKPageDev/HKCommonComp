@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HKCommonComp
 
 [![CI Status](https://img.shields.io/travis/1005753869@qq.com/HKCommonComp.svg?style=flat)](https://travis-ci.org/1005753869@qq.com/HKCommonComp)
@@ -27,3 +28,6 @@ pod 'HKCommonComp'
 ## License
 
 HKCommonComp is available under the MIT license. See the LICENSE file for more info.
+=======
+# HKCommonComp
+>>>>>>> fb0880e5c3d5f9b4098f1cd5a026fbdbce6ee645
